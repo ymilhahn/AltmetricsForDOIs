@@ -1,5 +1,7 @@
 Altmetrics for DOIs
 ===================
+[![DOI](https://zenodo.org/badge/124696178.svg)](https://zenodo.org/badge/latestdoi/124696178)
+
 A Python script which requests [Altmetric scores](https://api.altmetric.com) for a given list of DOIs of scientific articles and writes the scores to a csv file.
 
 ## Background
