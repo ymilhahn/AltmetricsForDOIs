@@ -26,6 +26,7 @@ metric_keys = [
     "cited_by_videos_count",
     "cited_by_weibo_count",
     "cited_by_wikipedia_count"
+    "score"
 ]
 
 # relevant errors for user (printed in output csv)
